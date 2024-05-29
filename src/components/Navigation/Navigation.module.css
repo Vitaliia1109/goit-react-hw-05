@@ -1,0 +1,18 @@
+.header {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.nav {
+  display: flex;
+  justify-content: start;
+  gap: 20px;
+}
+
+.link {
+  color: black;
+}
+
+link:active {
+  color: brown;
+}
